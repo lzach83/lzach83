@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Hi there, I'm [Zach!](https://github.com/lzach83) 👋
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/almontek/](https://www.linkedin.com/in/zachary-lee-10b69a195/))]
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/almontek/](https://www.linkedin.com/in/zachary-lee-10b69a195/))
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zachary@allenlee.dev)](mailto:zachary@allenlee.dev)
 
 <!--- ## Languages and Tools: ---->
@@ -32,6 +32,8 @@
   ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
   ![Jest](https://img.shields.io/badge/Jest-232F3E?style=flat-square&logo=Jest&logoColor=red)
   ![TypeScript](https://img.shields.io/badge/TypeScript-232F3E?style=flat-square&logo=TypeScript&logoColor=blue)
+  [![](http://flutter-badge.zaynjarvis.com/version/{PackageName})](https://pub.dartlang.org/packages/{PackageName})
+[![](http://flutter-badge.zaynjarvis.com/score/{PackageName})](https://pub.dartlang.org/packages/{PackageName})
 
 
 <!--
